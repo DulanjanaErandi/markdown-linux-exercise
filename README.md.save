@@ -1,0 +1,25 @@
+# Markdown and Linux Exercise
+## Author
+*Your Name**
+Class ID: BEIRP24A6
+## Content
+- Introduction to Markdown
+- Markdown syntax basics
+- Introduction to Linux
+- Basic commands
+## Markdown Examples
+### Bold and Italic Text
+README. md *
+- ***Bold and Italic Text***
+### Links
+[OpenAI Website](https://www.openai.com/›™
+### Code Block|
+•sh
+echo "Hello, World!"
+#### **Step 4: Verify the File**
+To check the content, use:
+•sh
+cat README. md
+
+
+cat README.md
